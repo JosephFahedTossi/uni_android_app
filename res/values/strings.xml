@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LU ONLINE SUPPORT</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Community</string>
+    <string name="tab_text_2">Jobs</string>
+    <string name="tab_text_3">FAQ\'s</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="headA">Lebanese University Online Support</string>
+    <string name="headz">Powered by JFT - Webdev</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txta">ECONOMICS</string>
+    <string name="txtb">AUDIT</string>
+    <string name="txtc">FINANCE</string>
+    <string name="txtd">MANAGEMENT</string>
+    <string name="txte">MARKETING</string>
+    <string name="txtf">MIS</string>
+    <string name="welcoming_frag3">Please select your Major</string>
+
+
+</resources>
